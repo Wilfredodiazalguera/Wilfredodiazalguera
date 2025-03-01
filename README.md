@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wilfredo Diaz Alguera
-- 👀 I’m interested in Software testing 
+- 👀 I’m interested in Software testing, QA Software, Machine Learning and AI
 - 🌱 I’m currently learning about a lot of tools to improve my level
 - 💞️ I’m looking to collaborate on Cypress, Js, Docker, Kubernetes, Jenkins, Azure, and testing related projects.
 - 📫 How to reach me: 
