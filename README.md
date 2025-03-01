@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Wilfredo Diaz Alguera
-- 👀 I’m interested in Software testing, QA Software, Machine Learning and AI
+- 👋 Hi, I’m Wilfredo Diaz Alguera from Costa Rica
+- 👀 I’m interested in Software testing, Machine Learning and AI
 - 🌱 I’m currently learning about a lot of tools to improve my level
 - 💞️ I’m looking to collaborate on Cypress, Js, Docker, Kubernetes, Jenkins, Azure, and testing related projects.
+- 💞️ I’m looking to collaborate on Machine learning or AI projects.
 - 📫 How to reach me: 
 - $ Email: wilfredodiazalguera@gmail.com
 - $ LinkedIn: https://www.linkedin.com/in/wilfredodiazalguera/
